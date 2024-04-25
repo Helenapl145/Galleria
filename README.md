@@ -1,5 +1,5 @@
 # galleria
-<h1 align="center">Oportuniza</h1>
+<h1 align="center">Galleria</h1>
 
 <p align="center">
  Esse projeto foi feito com o objetivo de facilitar a busca por fotos gratuitas. <br/>
