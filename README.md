@@ -35,7 +35,7 @@
 O projeto tem como objetivo ajudar a encontrar fotos gratuitas referentes alguns temas comuns a partir de uma biblioteca com layout bem intuitivo e feito com SASS. 
 
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://helenapl145.github.io/Galleria/)
 
 Esse projeto está sob a licença MIT.
 
