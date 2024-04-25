@@ -18,7 +18,7 @@
 <br>
 
 <p align="center"> 
-    <img alt="Projeto Oportuniza" src="./img/preview.png">
+    <img alt="Projeto Galleria" src="./img/preview.png">
 
 </p>
 
